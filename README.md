@@ -18,7 +18,7 @@ Nó thường ở dưới hình thức là một dạng card add-in. Loại card
 
 Ngoài việc cung cấp những lợi ích chịu lỗi của một RAID thông thường, bộ điều khiển hardware RAID còn thực hiện các chức năng kết nối tương tự như bộ điều khiển trên máy chủ tiêu chuẩn. Và cũng bởi nhờ nó có riêng cho mình tài nguyên (CPU, memory,...), nên chúng thường cung cấp hiệu suất cao nhất cho tất cả các loại RAID. Hardware RAID cũng cung cấp tính năng chịu lỗi mạnh mẽ hơn đa dạng hơn software RAID. Ví dụ như RAID 0/1/5/6/10. 
 
-<img src="http://imgur.com/A4y7yod">
+<img src="http://i.imgur.com/cu2YLnm.png">
 
 ###3. Các cấp độ RAID
 
@@ -26,7 +26,7 @@ Theo RAB thì RAID được chia thành 7 cấp độ (level), mỗi cấp độ
 
 ####3.1 RAID 0
 
-<img src="http://imgur.com/OFlgAvY">
+<img src="http://i.imgur.com/5BvD8Qs.png">
 
 RAID 0 cần ít nhất 2 ổ đĩa. Tổng quát ta có n đĩa (n >= 2) và các đĩa là cùng loại.
 
